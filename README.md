@@ -73,8 +73,8 @@ print(f"Received {data!r}")
 
 ## OUTPUT:
 server
-![server](../image/s.png)
+![server](../image copy/s.png)
 client 
-![client](../image/c.png)
+![client](../image copy/c.png)
 ## RESULT:
 The program is executed successfully
