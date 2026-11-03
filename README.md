@@ -72,9 +72,9 @@ print(f"Received {data!r}")
 ```
 
 ## OUTPUT:
+client
+![Alt text](<image copy/c.png>)
 server
-![server](../image copy/s.png)
-client 
-![client](../image copy/c.png)
+![Alt text](<image copy/s.png>)
 ## RESULT:
 The program is executed successfully
